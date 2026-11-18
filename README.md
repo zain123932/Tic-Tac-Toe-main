@@ -3,7 +3,7 @@
 A neon-styled, two-player Tic Tac Toe game built with plain HTML, CSS, and vanilla JavaScript. No frameworks, no dependencies: just open `index.html` and play.
 
 
-**Live Demo:**
+**Live Demo:**https://zain123932.github.io/Tic-Tac-Toe-main/
 
 ---
 
